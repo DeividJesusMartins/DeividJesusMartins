@@ -1,5 +1,5 @@
 # Deivid Martins 👋
-**Analista de Dados | Power BI · SQL · DAX · Databricks · PySpark**
+**Analista de Dados | Engenheiro de Dados**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deividmartins)
 
