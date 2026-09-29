@@ -9,7 +9,7 @@ Sou focado em Engenharia e Análise de Dados com experiência em Python, SQL e m
 ### 👨‍💻 Sobre mim
 
 - 🚀 Foco em **Engenharia de Dados** e automação de pipelines.
-- 🐍 Experiência com **Python** para ingestão, manipulação e automação de dados.
+- 🐍 Experiência com **Python/PySpark** para ingestão, manipulação e automação de dados.
 - 📊 Proficiente em **SQL** para consultas complexas, modelagem e análise.
 - 🌱 Aprofundando conhecimentos em **Databricks, Microsoft Fabric, AWS e Azure**.
 - 🎯 Buscando oportunidades e projetos para aplicar soluções de dados a desafios reais.
