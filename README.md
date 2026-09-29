@@ -1,46 +1,29 @@
-# Olá, eu sou o Deivid Martins! 👋
+# Deivid Martins 👋
+**Engenharia e Análise de Dados** · Python · SQL · Databricks · Cloud
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deividmartins)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deividmartins)
 
-Sou focado em Engenharia e Análise de Dados com experiência em Python, SQL e modelagem de dados. Atualmente estudo e aprofundo minhas habilidades em arquitetura Cloud (AWS e Azure), Databricks e ferramentas modernas de processamento de dados.
+Construo pipelines e soluções de dados que transformam informação bruta em decisão: ingestão, modelagem, automação e visualização. Hoje aprofundo arquitetura em nuvem (AWS e Azure) e processamento distribuído com Databricks.
 
----
+## 🚀 Projetos em destaque
 
-### 👨‍💻 Sobre mim
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [nome-do-repo](link) | Pipeline de ingestão e transformação de dados em camadas (bronze/silver/gold) | PySpark, Databricks |
+| [nome-do-repo](link) | Automação de cálculo e consolidação de indicadores | Python, Excel, Power BI |
+| [nome-do-repo](link) | Modelagem dimensional e consultas analíticas | SQL, PostgreSQL |
 
-- 🚀 Foco em **Engenharia de Dados** e automação de pipelines.
-- 🐍 Experiência com **Python/PySpark** para ingestão, manipulação e automação de dados.
-- 📊 Proficiente em **SQL** para consultas complexas, modelagem e análise.
-- 🌱 Aprofundando conhecimentos em **Databricks, Microsoft Fabric, AWS e Azure**.
-- 🎯 Buscando oportunidades e projetos para aplicar soluções de dados a desafios reais.
+> Dica: cada projeto com 1 linha de problema → solução → resultado (ex.: "reduziu X horas de trabalho manual").
 
----
+## 🛠 Stack
 
-### 🛠 Tecnologias e Ferramentas
+**Linguagens:** Python · SQL
+**Dados & Cloud:** Databricks · Microsoft Fabric · AWS · Azure
+**Bancos:** PostgreSQL · SQL Server
+**BI & Ferramentas:** Power BI · Docker · Git
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🌱 Em estudo
+AWS e Azure (armazenamento e orquestração) · Data Lakehouse vs. Data Warehouse · pipelines em larga escala no Databricks
 
----
-
-### 🌱 O que estou aprendendo
-
-Atualmente, meu foco de estudo está em:
-
-- **AWS & Azure:** Serviços de armazenamento, computação e orquestração de dados em nuvem.
-- **Databricks:** Processamento distribuído e pipelines eficientes em larga escala.
-- **Arquitetura de Dados:** Conceitos de Data Lakehouse, Data Warehouse e boas práticas de modelagem.
-
----
-
-### 📫 Como me encontrar
-
-Sinta-se à vontade para se conectar comigo no LinkedIn!
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deividmartins)
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/deividmartins)
